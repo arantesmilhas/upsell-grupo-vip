@@ -249,16 +249,16 @@ function Index() {
 
           {/* Price block */}
           <div className="mt-12 rounded-3xl border border-primary/40 bg-card/70 p-8 md:p-10 backdrop-blur-md shadow-neon">
-            <p className="text-base text-foreground/50 line-through">De € 49,90</p>
+            <p className="text-base text-foreground/50 line-through">De R$ 99,90</p>
             <p className="mt-2 font-[var(--font-display)] text-sm uppercase tracking-[0.3em] text-foreground/60">
               Por apenas
             </p>
             <p className="mt-3 font-[var(--font-display)] text-6xl md:text-7xl font-bold text-gradient-neon leading-none">
-              € 9,97
+              R$ 47,00
             </p>
             <p className="mt-3 text-base text-foreground/70">/mês</p>
             <p className="mt-2 text-xs text-foreground/50">
-              (menos de € 0,35 por dia)
+              (menos de R$ 0,70 por dia)
             </p>
 
             <ul className="mt-8 space-y-3 text-left">
