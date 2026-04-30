@@ -275,7 +275,7 @@ function Index() {
             </ul>
 
             <a
-              href="https://pay.hotmart.com/W105617111J?checkoutMode=10"
+              href="https://pay.cakto.com.br/34v4dyr_867981"
               className="mt-10 group relative inline-flex w-full items-center justify-center gap-2 rounded-full bg-gradient-neon px-6 py-5 text-sm md:text-base font-bold tracking-wider uppercase text-white animate-pulse-neon transition-transform hover:scale-[1.02]"
             >
               <Flame className="h-5 w-5" />
