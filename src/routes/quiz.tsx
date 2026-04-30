@@ -48,7 +48,7 @@ const questions: Question[] = [
   },
   {
     title:
-      "Por € 9,97/mês você teria acesso a kits novos, conteúdos sazonais e uma comunidade ativa — isso faz sentido pra você?",
+      "Por R$ 47,00/mês você teria acesso a kits novos, conteúdos sazonais e uma comunidade ativa — isso faz sentido pra você?",
     subtitle: "Menos que uma pizza, muito mais inspiração todo mês.",
     options: [
       { emoji: "🔥", label: "Faz muito sentido, quero saber mais!" },
@@ -327,7 +327,7 @@ function ResultScreen() {
           Sua entrada por apenas
         </p>
         <p className="text-5xl md:text-6xl font-bold tracking-tight" style={{ color: "#3C3489" }}>
-          € 9,97
+          R$ 47,00
           <span className="text-xl font-medium" style={{ color: "#6B63C7" }}>
             /mês
           </span>
